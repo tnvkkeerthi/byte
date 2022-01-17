@@ -14,6 +14,7 @@ npm install
 node checksum.js <FileName> <checksum>
 ```
 
-Here FileName and checksum are optional parameters. 
+Here FileName and checksum are optional parameters.
+
 FileName : Name of the file which has the data in tsv format
 checksum : checksum value to be checked against
